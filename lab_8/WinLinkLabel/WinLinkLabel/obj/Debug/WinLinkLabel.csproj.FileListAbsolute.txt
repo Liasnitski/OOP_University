@@ -1,0 +1,10 @@
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.exe.config
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.exe
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.pdb
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csprojAssemblyReference.cache
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Form1.resources
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Form2.resources
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Properties.Resources.resources
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.GenerateResource.cache
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.exe
+D:\Projects\C#\lab_8\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.pdb

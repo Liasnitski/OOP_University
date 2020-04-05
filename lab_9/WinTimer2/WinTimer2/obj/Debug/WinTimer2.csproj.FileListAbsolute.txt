@@ -1,0 +1,10 @@
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\bin\Debug\WinTimer2.exe.config
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\bin\Debug\WinTimer2.exe
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\bin\Debug\WinTimer2.pdb
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.UserControlTimer2.resources
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.GenerateResource.Cache
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.exe
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.pdb
+C:\Users\K5-3-23-4\source\repos\WinTimer2\WinTimer2\obj\Debug\WinTimer2.Form1.resources

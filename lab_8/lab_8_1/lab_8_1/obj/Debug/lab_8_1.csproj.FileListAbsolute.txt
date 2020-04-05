@@ -1,0 +1,9 @@
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.csprojAssemblyReference.cache
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.Form1.resources
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.Properties.Resources.resources
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.csproj.GenerateResource.cache
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\bin\Debug\lab_8_1.exe.config
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\bin\Debug\lab_8_1.exe
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\bin\Debug\lab_8_1.pdb
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.exe
+D:\Projects\C#\lab_8\lab_8_1\lab_8_1\obj\Debug\lab_8_1.pdb

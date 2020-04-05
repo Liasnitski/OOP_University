@@ -1,0 +1,9 @@
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+D:\Projects\C#\lab_8\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb

@@ -1,0 +1,9 @@
+D:\Projects\C#\lab_8\WinContainer\WinContainer\obj\Debug\WinContainer.csprojAssemblyReference.cache
+D:\Projects\C#\lab_8\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+D:\Projects\C#\lab_8\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+D:\Projects\C#\lab_8\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+D:\Projects\C#\lab_8\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+D:\Projects\C#\lab_8\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+D:\Projects\C#\lab_8\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+D:\Projects\C#\lab_8\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+D:\Projects\C#\lab_8\WinContainer\WinContainer\obj\Debug\WinContainer.pdb

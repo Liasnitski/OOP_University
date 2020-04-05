@@ -1,0 +1,9 @@
+D:\Projects\C#\lab_8\TestList\TestList\bin\Debug\TestList.exe.config
+D:\Projects\C#\lab_8\TestList\TestList\bin\Debug\TestList.exe
+D:\Projects\C#\lab_8\TestList\TestList\bin\Debug\TestList.pdb
+D:\Projects\C#\lab_8\TestList\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+D:\Projects\C#\lab_8\TestList\TestList\obj\Debug\TestList.Form1.resources
+D:\Projects\C#\lab_8\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+D:\Projects\C#\lab_8\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+D:\Projects\C#\lab_8\TestList\TestList\obj\Debug\TestList.exe
+D:\Projects\C#\lab_8\TestList\TestList\obj\Debug\TestList.pdb

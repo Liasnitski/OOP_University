@@ -1,0 +1,9 @@
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.Cache
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
+C:\Users\K5-3-23-4\source\repos\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources

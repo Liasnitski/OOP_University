@@ -1,0 +1,9 @@
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe.config
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\bin\Debug\WinTimer1.pdb
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csprojAssemblyReference.cache
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\obj\Debug\WinTimer1.exe
+D:\Projects\C#\lab_9\WinTimer1\WinTimer1\obj\Debug\WinTimer1.pdb
